@@ -11,6 +11,7 @@ By the end of this lesson, you should be able to do the following:
  - Explain how to access array elements using different methods.
  - Explain three different ways to add data to an array.
  - Explain how to remove elements from an array.
+ - This is a test to see how git can be used in the real world!
 
 ### Creating Arrays
 Here are two basic arrays:
